@@ -1,4 +1,5 @@
 # Multilingual Retrieval-Augmented Generation (RAG) System
+#NoteBook link: https://colab.research.google.com/drive/1XmViKkQpTcFfnooaVZUGC7FGoz5--nud?usp=sharing
 Overview
 This project implements a simple multilingual Retrieval-Augmented Generation (RAG) pipeline capable of understanding and answering queries in English and Bangla. It uses a local PDF corpus as the knowledge base, extracts and processes text, and leverages free/open-source models for embeddings and language generation — without requiring any API keys.
 
